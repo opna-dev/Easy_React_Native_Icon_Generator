@@ -1,0 +1,11 @@
+{
+  "name": "iconGenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "asciify-image": "^0.1.1",
+    "rimraf": "^2.6.2",
+    "sharp": "^0.20.2"
+  }
+}
