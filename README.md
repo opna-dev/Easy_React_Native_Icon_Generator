@@ -4,6 +4,9 @@
 
 # React Native Icon Generator
 
+## Read this blog post for more instructions
+[https://medium.com/animal-labs-blog/easy-icon-generator-for-react-native-ad566ff71d26](https://medium.com/animal-labs-blog/easy-icon-generator-for-react-native-ad566ff71d26)
+
 ## Install repo
 
 Eventually we can set this up as an npm package but for now, just do it manually.
