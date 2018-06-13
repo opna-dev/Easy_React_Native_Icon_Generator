@@ -19,6 +19,8 @@ Install dependencies
 
 `npm i` or `yarn`
 
+Edit project name in `scripts/config.js` to match your parent React Native project name
+
 Execute script to create icons
 
 `node scripts/make_icons.js`
